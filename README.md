@@ -24,7 +24,5 @@ For an in-depth understanding of each protocol, the simulation environment, and 
 
 *Contributor: [Sepide Bahrami](https://github.com/sepiidebahramii)*
 
-
-
 ---
 
